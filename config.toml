@@ -25,6 +25,9 @@ paginate     = 10
   keywords = "homepage, blog"
   images = [""]
 
+  # Enable toggle theme
+  enableThemeToggle = true
+
 [taxonomies]
     category = "blog"
     tag      = "tags"
@@ -51,3 +54,7 @@ paginate     = 10
     identifier = "blog"
     name       = "Blog"
     url        = "/posts"
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
