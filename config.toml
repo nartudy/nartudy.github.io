@@ -1,3 +1,4 @@
+baseURL      = "https://nartudy.github.io"
 baseurl      = "https://nartudy.github.io"
 title        = "My Blog"
 languageCode = "en-us"
